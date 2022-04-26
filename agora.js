@@ -12,7 +12,7 @@ var remoteUsers = {};
 var subscribedRemoteUsers = {};
 // Agora client options
 var options = {
-    appid: "e84579e080a145ec9fc8312297fa075f",
+    appid: "App ID Here",
     channel: "trial1",
     token: null,
     uid: null,
